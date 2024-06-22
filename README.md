@@ -15,7 +15,7 @@ My research interest includes meshless methods and material point method.
   **Huanhuan Ma**, Jingrun Chen, Jiansong Deng  
   *Journal of Computational and Applied Mathematics, Accepted.*
 
-- **Error analysis of the element-free Galerkin method for a nonlinear plate problem(https://www.sciencedirect.com/science/article/abs/pii/S0898122124001275)**  
+- **<[a href="https://www.sciencedirect.com/science/article/abs/pii/S0898122124001275">Error analysis of the element-free Galerkin method for a nonlinear plate problem**  
   **Huanhuan Ma**, Jingrun Chen, Jiansong Deng  
   *Computers & Mathematics with Applications, Vol. 163, 2024.*
 
