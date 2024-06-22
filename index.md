@@ -1,50 +1,39 @@
+# Huanhuan Ma (马欢欢)
 
-# 个人简历
+![photo](path/to/photo.jpg)
 
-## 基本信息
-- **姓名:** 张三
-- **邮箱:** zhangsan@example.com
-- **电话:** 123-456-7890
-- **GitHub:** [github.com/zhangsan](https://github.com/zhangsan)
-- **LinkedIn:** [linkedin.com/in/zhangsan](https://linkedin.com/in/zhangsan)
+- **Email:** [mhh@mail.ustc.edu.cn](mhh@mail.ustc.edu.cn) 
+- **University of Science and Technology of China (USTC)**
 
-## 职业目标
-希望在一家创新的科技公司担任软件开发工程师，利用我的编程技能和解决问题的能力，为公司的发展做出贡献。
+## Biography
+I am currently a Ph.D student at University of Science and Technology of China, supervised by Prof. Jiansong Deng, and Prof. Jingrun Chen. Before that, I received my Master's degree of computing mathematics from Hefei University of Technology, and received my Bachelor’s Degree of mathematics and applied mathematics from Fuyang Normal University.
 
-## 教育背景
-### **某某大学**
-- **学位:** 计算机科学学士
-- **时间:** 2015 - 2019
-- **荣誉:** 优秀毕业生，奖学金获得者
+My research interest includes meshless methods and material point method.
 
-## 工作经验
-### **某某科技公司**
-- **职位:** 软件开发工程师
-- **时间:** 2020 - 现在
-- **职责:**
-  - 参与公司核心产品的开发和维护
-  - 优化代码，提高系统性能
-  - 与团队合作，解决技术难题
+## Publications
+- **Analysis of the dynamic response for Kirchhoff plates by the element-free Galerkin method**  
+  **Huanhuan Ma**, Jingrun Chen, Jiansong Deng 
+  *Journal of Computational and Applied Mathematics,Accepted.*
 
-### **某某初创公司**
-- **职位:** 实习生
-- **时间:** 2019 - 2020
-- **职责:**
-  - 开发和测试新功能
-  - 编写技术文档
-  - 协助项目管理
+- **Error analysis of the element-free Galerkin method for a nonlinear plate problem**  
+  **Huanhuan Ma**, Jingrun Chen, Jiansong Deng  
+  *Computers & Mathematics with Applications, Vol. 163, 2024.*
 
-## 技能
-- **编程语言:** Python, Java, C++
-- **工具:** Git, Docker, Jenkins
-- **框架:** React, Django, Spring
+- **Convergence analysis of the element-free Galerkin method for plate bending problem**  
+  **Huanhuan Ma**, Jingrun Chen, Jiansong Deng  
+  *Computers & Mathematics with Applications, Vol. 136, 2023.*
 
-## 项目经验
-### **项目名称**
-- **描述:** 开发一个在线购物系统，实现用户注册、商品浏览、购物车和支付功能。
-- **技术:** React, Node.js, MongoDB
+- **Isogeometric Analysis Using Basis Functions of Splines Spaces over Hierarchical T-meshes with High Level Differences**  
+  Jingjing Liu, Fang Deng, **Huanhuan Ma**, Jiansong Deng  
+  * Communications in Mathematics and Statistics, Vol. 28, 2023.*
 
-## 个人兴趣
-- 编程
-- 阅读
-- 旅行
+- **A Combined Approximating and Interpolating Ternary 4-point Subdivision Scheme**  
+  Li ZHANG, **Huanhuan Ma**, Shuo Tang, Jieqing Tan.  
+  *Journal of Computational and Applied Mathematics, Vol. 349, 2019.*
+
+- **A Class of Detailed Features Preserving Combined m-ary Subdivision Schemes with Two Parameters**  
+  Li ZHANG, **Huanhuan Ma**, Shuo Tang, Jieqing Tan.
+  *Journal of Computer-Aided Design and Computer Graphics,2019*
+
+
+   
