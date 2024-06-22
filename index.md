@@ -1,6 +1,6 @@
 # Huanhuan Ma (马欢欢)
 
-![photo](path/to/photo.jpg)
+![photo](photo.jpg)
 
 - **Email:** [mhh@mail.ustc.edu.cn](mhh@mail.ustc.edu.cn) 
 - **University of Science and Technology of China (USTC)**
