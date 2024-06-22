@@ -25,7 +25,7 @@ My research interest includes meshless methods and material point method.
 
 - **Isogeometric Analysis Using Basis Functions of Splines Spaces over Hierarchical T-meshes with High Level Differences**  
   Jingjing Liu, Fang Deng, **Huanhuan Ma**, Jiansong Deng  
-  * Communications in Mathematics and Statistics, Vol. 28, 2023.*
+  *Communications in Mathematics and Statistics, Vol. 28, 2023.*
 
 - **A Combined Approximating and Interpolating Ternary 4-point Subdivision Scheme**  
   Li ZHANG, **Huanhuan Ma**, Shuo Tang, Jieqing Tan.  
@@ -34,6 +34,10 @@ My research interest includes meshless methods and material point method.
 - **A Class of Detailed Features Preserving Combined m-ary Subdivision Schemes with Two Parameters**  
   Li ZHANG, **Huanhuan Ma**, Shuo Tang, Jieqing Tan.
   *Journal of Computer-Aided Design and Computer Graphics,2019*
+
+- **一类融合逼近和插值的曲线细分**  
+  **马欢欢**, 张莉, 唐烁，檀结庆.
+  *《计算数学》,2019*
 
 
    
