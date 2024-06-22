@@ -6,7 +6,7 @@
 - **School of Mathematical Sciences, University of Science and Technology of China (USTC)**
 
 ## Biography
-I am currently a Ph.D student at University of Science and Technology of China, supervised by Prof. Jiansong Deng, and Prof. Jingrun Chen. Before that, I received my Master's degree of computing mathematics from Hefei University of Technology, and received my Bachelor’s Degree of mathematics and applied mathematics from Fuyang Normal University.
+I am currently a Ph.D student at University of Science and Technology of China, supervised by Prof. Jiansong Deng, and Prof. Jingrun Chen. Before that, I received my Master's degree of computing mathematics from Hefei University of Technology, and received my Bachelor’s degree of mathematics and applied mathematics from Fuyang Normal University.
 
 My research interest includes meshless methods and material point method.
 
