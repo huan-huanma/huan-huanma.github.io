@@ -11,7 +11,7 @@ I am currently a Ph.D student at University of Science and Technology of China, 
 My research interest includes meshless methods and material point method.
 
 ## Publications
-- **Analysis of the dynamic response for Kirchhoff plates by the element-free Galerkin method**  
+- **[Analysis of the dynamic response for Kirchhoff plates by the element-free Galerkin method](Analysis of the dynamic response for Kirchhoff plates by the element-free Galerkin method)**  
   **Huanhuan Ma**, Jingrun Chen, Jiansong Deng  
   *Journal of Computational and Applied Mathematics, Accepted.*
 
