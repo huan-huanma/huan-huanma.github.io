@@ -3,6 +3,7 @@
 <img src="photo.jpg" alt="photo" width="150"/>
 
 - **Email:** mhh@mail.ustc.edu.cn
+- **School of Mathematical Sciences**
 - **University of Science and Technology of China (USTC)**
 
 ## Biography
