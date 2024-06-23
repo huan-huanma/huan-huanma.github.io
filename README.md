@@ -5,9 +5,17 @@
 
 **Huanhuan Ma(马欢欢)**
   
-  **[School of Mathematical Sciences](https://math.ustc.edu.cn)**  
-  **[University of Science and Technology of China (USTC)](https://en.ustc.edu.cn)**  
-  **Email:** mhh@mail.ustc.edu.cn  
+<div>
+  <p style="margin-bottom: 10px;">
+    <strong><a href="https://math.ustc.edu.cn" style="text-decoration: none;">School of Mathematical Sciences</a></strong>
+  </p>
+  <p style="margin-bottom: 10px;">
+    <strong><a href="https://en.ustc.edu.cn" style="text-decoration: none;">University of Science and Technology of China (USTC)</a></strong>
+  </p>
+  <p style="margin-bottom: 10px;">
+    <strong>Email:</strong> <a href="mailto:mhh@mail.ustc.edu.cn" style="text-decoration: none;">mhh@mail.ustc.edu.cn</a>
+  </p>
+</div>
 
 <div style="clear: both;"></div>
 
