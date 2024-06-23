@@ -5,10 +5,10 @@
 
 # Huanhuan Ma (马欢欢)
 
-- **[School of Mathematical Sciences](https://math.ustc.edu.cn) (USTC)**
-- **[University of Science and Technology of China (USTC)](https://en.ustc.edu.cn)**
-- **Email:** mhh@mail.ustc.edu.cn
-- 
+  **[School of Mathematical Sciences](https://math.ustc.edu.cn) (USTC)**
+  **[University of Science and Technology of China (USTC)](https://en.ustc.edu.cn)**
+  **Email:** mhh@mail.ustc.edu.cn
+
 <div style="clear: both;"></div>
 
 ## Biography
