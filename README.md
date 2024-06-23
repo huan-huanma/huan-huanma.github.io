@@ -1,6 +1,6 @@
  
 <div style="float: left; margin-right: 20px; margin-bottom: 10px;">
-  <img src="image.png" alt="photo" width="150"/>
+  <img src="photo.png" alt="photo" width="150"/>
 </div>
 
 # Huanhuan Ma (马欢欢)
