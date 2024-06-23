@@ -1,5 +1,5 @@
 <div style="float: left; margin-right: 20px; margin-bottom: 10px;">
-  <img src="image.png" alt="photo" width="150"/>
+  <img src="image.jpg" alt="photo" width="150"/>
 </div>
 
 <h1>Huanhuan Ma (马欢欢)</h1>
