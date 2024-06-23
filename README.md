@@ -1,6 +1,8 @@
 # Huanhuan Ma (马欢欢)
 
-<img src="photo.jpg" alt="photo" width="150"/>
+<div style="float: left; margin-right: 20px;">
+  <img src="photo.jpg" alt="photo" width="150"/>
+</div>
 
 - **Email:** mhh@mail.ustc.edu.cn
 - **[School of Mathematical Sciences, University of Science and Technology of China](https://math.ustc.edu.cn) (USTC)**
