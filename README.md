@@ -3,7 +3,7 @@
   <img src="photo.jpg" alt="photo" width="150"/>
 </div>
 
-# Huanhuan Ma(马欢欢)
+# Huanhuan Ma (马欢欢)
   
 <div>
   <p style="margin-bottom: 10px;">
