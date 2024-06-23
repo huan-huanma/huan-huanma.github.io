@@ -5,14 +5,14 @@
 
 # Huanhuan Ma (马欢欢)
   
-  **[School of Mathematical Sciences](https://math.ustc.edu.cn) (USTC)**  
+  **[School of Mathematical Sciences](https://math.ustc.edu.cn)**  
   **[University of Science and Technology of China (USTC)](https://en.ustc.edu.cn)**  
   **Email:** mhh@mail.ustc.edu.cn  
 
 <div style="clear: both;"></div>
 
 ## Biography
-I am currently a Ph.D student at [University of Science and Technology of China](https://en.ustc.edu.cn), supervised by Prof. [Jiansong Deng](https://faculty.ustc.edu.cn/dengjiansong), and Prof. [Jingrun Chen](https://faculty.ustc.edu.cn/chenjingrun). Before that, I received my Master's degree of computing mathematics from Hefei University of Technology in 2019, and my Bachelor’s degree of mathematics and applied mathematics from Fuyang Normal University in 2016.
+I am currently a Ph.D student at [University of Science and Technology of China](https://en.ustc.edu.cn), supervised by Prof. [Jiansong Deng](https://faculty.ustc.edu.cn/dengjiansong), and Prof. [Jingrun Chen](https://faculty.ustc.edu.cn/chenjingrun). Before that, I received my Master's degree of Computing Mathematics from Hefei University of Technology in 2019, and my Bachelor’s degree of Mathematics and Applied Mathematics from Fuyang Normal University in 2016.
 
 My research interest includes meshless methods and material point method.
 
