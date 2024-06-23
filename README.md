@@ -1,3 +1,6 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" slick-uniqueid="3">
+<head>
  
 <div style="float: left; margin-right: 20px; margin-bottom: 10px;">
   <img src="photo.jpg" alt="photo" width="150"/>
