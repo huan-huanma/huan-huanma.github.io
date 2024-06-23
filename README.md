@@ -3,7 +3,7 @@
   <img src="photo.jpg" alt="photo" width="150"/>
 </div>
 
-**Huanhuan Ma(马欢欢)** (<span style="font-family: Arial, sans-serif;"></span>)
+**Huanhuan Ma(马欢欢)** (<span style="font-family: Arial, sans-serif;">)
   
   **[School of Mathematical Sciences](https://math.ustc.edu.cn)**  
   **[University of Science and Technology of China (USTC)](https://en.ustc.edu.cn)**  
